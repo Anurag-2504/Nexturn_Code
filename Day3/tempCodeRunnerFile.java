@@ -1,0 +1,1 @@
+     char[] passwordChars = console.readPassword("Enter your password: ");
